@@ -10,8 +10,9 @@
 
 ### Dia 01: 13 de Junho de 2025
 
-**Progresso do dia**: Pratiquei lógica de programação e alguns comandos do git.
+**Progresso do dia**: Pratiquei lógica de programação e alguns comandos do git e estudei para a certificação AWS Cloud Practitioner.
 
-**Aprendizados:** Estou usando a formação A partir do zero: iniciante em programação da Alura, embora já a tenho concluído, para praticar um pouco de lógica de programação. Enquanto faço as atividades do curso, utilizo os comandos do git na pasta das atividades do curso.
+**Aprendizados:** Estou usando a formação A partir do zero: iniciante em programação da Alura, embora já a tenho concluído, para praticar um pouco de lógica de programação. Enquanto faço as atividades do curso, utilizo os comandos do git na pasta das atividades do curso. 
+Estudei sobre as funções de TI clássica da AWS.
 
-**Link do formação:** [Formação Alura - A partir do zero: iniciante em programação](https://www.alura.com.br/formacao-programacao)
+**Link da formação:** [Formação Alura - A partir do zero: iniciante em programação](https://www.alura.com.br/formacao-programacao)
